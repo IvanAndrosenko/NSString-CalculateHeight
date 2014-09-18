@@ -5,8 +5,6 @@
 //  Copyright (c) 2014 iQDesk. All rights reserved.
 //
 
-
-
 #import <Foundation/Foundation.h>
 
 @interface NSString (CalculateHeight)
